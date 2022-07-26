@@ -4,7 +4,7 @@
 - 🙎🏽‍♂️ I'm a Software Developer
 - 🌱 I’m currently learning new things everyday
 - 👯 I’m looking to collaborate other software developers
-- 🥅 I want to contribute more to Open source.
+- 🥅 2022 goal: I want to contribute more to Open source.
 - 📫 How to reach me: [ejioguvictor6@gmail.com][email] or +2347069361700
 - ⚡ Fun fact: I'm the best FIFA player
 
