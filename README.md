@@ -1,6 +1,7 @@
 # Hi there 👋🏽, I'm Victor - aka [Wills 😁][website]
 
 ### About Me
+<br/>
 - 🙎🏽‍♂️ I'm a Software Developer
 - 🌱 I’m currently learning new things everyday
 - 👯 I’m looking to collaborate other software developers
@@ -13,6 +14,10 @@
 [<img align="left" alt="Wills | Twitter" width="22px" style="color:#007679" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
 [<img align="left" alt="Wills | Twitter" width="22px" style="color:#007679" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="Wills | LinkedIn" width="22px" style="color:#007679" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+
+## Skills and Stack:
+
+[<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore"/>]
 
 <br/>
 <br/>
