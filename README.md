@@ -9,9 +9,9 @@
 
 ## Connect with me:
 
-[<img align="left" alt="Wills | Twitter" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][https://wills-dev.github.io/Victor-portfolio/index.html]
-[<img align="left" alt="Wills | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][https://https://twitter.com/Willsssss_]
-[<img align="left" alt="Wills | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][https://www.linkedin.com/in/ejiogu-victor-4b594916a]
+[<img align="left" alt="Wills | Twitter" width="22px" color="#007679" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][https://wills-dev.github.io/Victor-portfolio/index.html]
+[<img align="left" alt="Wills | Twitter" width="22px" color="#007679" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][https://https://twitter.com/Willsssss_]
+[<img align="left" alt="Wills | LinkedIn" width="22px" color="#007679" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][https://www.linkedin.com/in/ejiogu-victor-4b594916a]
 
 <!--
 **Wills-dev/Wills-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
