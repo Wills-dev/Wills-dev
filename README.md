@@ -1,7 +1,6 @@
 # Hi there 👋🏽, I'm Victor - aka [Wills 😁][website]
 
 ### About Me
-<br/>
 - 🙎🏽‍♂️ I'm a Software Developer
 - 🌱 I’m currently learning new things everyday
 - 👯 I’m looking to collaborate other software developers
@@ -17,7 +16,7 @@
 
 ## Skills and Stack:
 
-[<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore"/>]
+[<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />] [VisualStudio]
 
 <br/>
 <br/>
@@ -26,6 +25,7 @@
 [twitter]: https://https://twitter.com/Willsssss_
 [email]: mailto:ejioguvictor6@gmail.com
 [linkedin]:https://www.linkedin.com/in/ejiogu-victor-4b594916a
+[VisualStudio]: https://code.visualstudio.com/
 
 <!--
 **Wills-dev/Wills-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
