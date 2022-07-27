@@ -8,20 +8,11 @@
 - 📫 How to reach me: [ejioguvictor6@gmail.com][email] or +2347069361700
 - ⚡ Fun fact: I'm the best FIFA player
 
-<br/>
-
----
-
 ## Connect with me:
 
 [<img align="left" alt="Wills | Twitter" width="22px" style="color:#007679" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
 [<img align="left" alt="Wills | Twitter" width="22px" style="color:#007679" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="Wills | LinkedIn" width="22px" style="color:#007679" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-
-<br/>
-<br/>
-
----
 
 ## Skills and Stack:
 
@@ -40,21 +31,25 @@
 
 <br/>
 <br/>
+
 ---
 
 [![Wills' GitHub stats](https://github-readme-stats.vercel.app/api?username=wills-dev&show_icons=true)](https://github.com/wills-dev/github-readme-stats)
 
 <br/>
 <br/>
+
 ---
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wills-dev)](https://github.com/wills-dev/github-readme-stats)
 
 <br/>
 <br/>
+
 ---
 
 [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=wills-dev)](https://github.com/wills-dev/github-readme-stats)
+
 
 <br/>
 <br/>
