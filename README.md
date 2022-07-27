@@ -15,6 +15,7 @@
 [<img align="left" alt="Wills | LinkedIn" width="22px" style="color:#007679" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
 <br/>
+
 ## Skills and Stack:
 
 [<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />][VisualStudio]
@@ -45,9 +46,6 @@
 <br/>
 
 ---
-
-[![wills's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=wills-dev)](https://github.com/wills-dev/github-readme-stats)
-
 
 <br/>
 <br/>
