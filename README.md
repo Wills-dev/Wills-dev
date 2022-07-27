@@ -8,6 +8,10 @@
 - 📫 How to reach me: [ejioguvictor6@gmail.com][email] or +2347069361700
 - ⚡ Fun fact: I'm the best FIFA player
 
+<br/>
+
+---
+
 ## Connect with me:
 
 [<img align="left" alt="Wills | Twitter" width="22px" style="color:#007679" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
@@ -16,6 +20,8 @@
 
 <br/>
 <br/>
+
+---
 
 ## Skills and Stack:
 
@@ -32,9 +38,23 @@
 [<img align="left" alt="Linux" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/linux/linux.png" />][HTML]
 [<img align="left" alt="C" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/c/c.png" />][CSS]
 
+<br/>
+<br/>
 ---
 
-[![Wills' GitHub stats](https://github-readme-stats.vercel.app/api?username=wills-dev)](https://github.com/wills-dev/github-readme-stats)
+[![Wills' GitHub stats](https://github-readme-stats.vercel.app/api?username=wills-dev&show_icons=true)](https://github.com/wills-dev/github-readme-stats)
+
+<br/>
+<br/>
+---
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wills-dev)](https://github.com/wills-dev/github-readme-stats)
+
+<br/>
+<br/>
+---
+
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=wills-dev)](https://github.com/wills-dev/github-readme-stats)
 
 <br/>
 <br/>
