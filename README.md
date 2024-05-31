@@ -50,7 +50,7 @@
 <br/>
 <br/>
 
-[website]: https://wills-dev.github.io/Victor-portfolio/index.html
+[website]: https://willsdev.netlify.app/
 [twitter]: https://https://twitter.com/Willsssss_
 [email]: mailto:ejioguvictor6@gmail.com
 [linkedin]:https://www.linkedin.com/in/ejiogu-victor-4b594916a
