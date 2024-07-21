@@ -4,7 +4,7 @@
 - 🙎🏽‍♂️ I'm a Software Developer
 - 🌱 I’m currently learning new things everyday
 - 👯 I’m looking to collaborate with other software developers
-- 🥅 2022 goal: I want to contribute more to Open source.
+- 🥅 Goal: Contributing more to Open source.
 - 📫 How to reach me: [Email][email] or +2347069361700
 - ⚡ Fun fact: I'm the best FIFA player
 
